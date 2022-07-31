@@ -30,3 +30,7 @@ numberOfUnitsPerBoxi is the number of units in each box of the type i.
 You are also given an integer truckSize, which is the maximum number of boxes that can be put on the truck. You can choose any boxes to put on the truck as long as the number of boxes does not exceed truckSize.
 
 Return the maximum total number of units that can be put on the truck.
+
+#### Missing number
+
+added missing number, alright bois the strat for this problem is to sort it first and then go thought if it doesnt equal our counter then its gonna returnt he missing number otherwise return the size of the vector because the missing number is the last number. :)
