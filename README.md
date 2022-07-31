@@ -33,4 +33,4 @@ Return the maximum total number of units that can be put on the truck.
 
 #### Missing number
 
-added missing number, alright bois the strat for this problem is to sort it first and then go thought if it doesnt equal our counter then its gonna returnt he missing number otherwise return the size of the vector because the missing number is the last number. :)
+added missing number, alright bois the strat for this problem is to sort it first and then go thought if it doesnt equal our counter then its gonna returnt he missing number otherwise return the size of the vector because the missing number is the last number.
