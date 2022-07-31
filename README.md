@@ -34,3 +34,7 @@ Return the maximum total number of units that can be put on the truck.
 #### Missing number
 
 added missing number, alright bois the strat for this problem is to sort it first and then go thought if it doesnt equal our counter then its gonna returnt he missing number otherwise return the size of the vector because the missing number is the last number.
+
+### Roman to integer
+
+reading from left to right changing roman numbers, when reading a smaller number before a big number add it to the sum but ass negative, and the next big number add it as positive because that's how roman numbers work "¯\_(ツ)_/¯" oh well, and if the next number is bigger, we add positive, do it until there is no more characters left.
